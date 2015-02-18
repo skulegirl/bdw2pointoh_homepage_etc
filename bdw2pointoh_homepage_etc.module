@@ -1,0 +1,7 @@
+<?php
+/**
+ * @file
+ * Code for the New Home Page Designs plus news and memberships feature.
+ */
+
+include_once 'bdw2pointoh_homepage_etc.features.inc';
